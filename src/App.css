@@ -1,0 +1,40 @@
+
+.App-header {
+  background-color: #e24335;
+  height: 40px;
+  padding: 15px;
+  color: white;
+}
+
+.App-container {
+  margin: 0px 2%;
+  padding: 5px;
+}
+
+.story-item a {
+  text-decoration: none;
+  color: #e24335;
+  font-size: 18px;
+}
+
+.story-item b {
+  color: #e24335;
+}
+
+.story-item span {
+  font-size: 12px;
+  font-weight: lighter;
+  padding-left: 3px;
+}
+
+button {
+  padding: 0px 16px;
+  background-color: #e24335;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  min-height: 44px;
+  min-width: 80px;
+  font-weight: lighter;
+  font-size: 16px;
+}
